@@ -35,5 +35,7 @@ To use ResuGenius locally, follow these steps:
 
 We welcome contributions to ResuGenius! If you find any issues or have ideas to enhance the project, feel free to open an issue or submit a pull request.
 
+## Acknowledgements
+I would like to thank artists like kerismaker, Freepik, Vectors Tank and juicy_fish on www.flaticon.com who made the icons I have used in my project.
 
 Thank you for choosing ResuGenius to build your resume! We hope this tool enhances your job-seeking journey. Should you encounter any problems or have any feedback, please don't hesitate to reach out. Happy resume building!
