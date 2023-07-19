@@ -1,4 +1,3 @@
-# ResuGenius
 # ResuGenius - Online Resume Builder
 
 ResuGenius is an online resume builder that allows users to create professional and captivating resumes effortlessly. This project is built using HTML, CSS, JavaScript, and jQuery, providing a user-friendly interface for an intuitive experience.
